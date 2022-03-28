@@ -18,6 +18,8 @@ const typeDefs = gql`
     image: String
     link: String
     title: String!
+    pageCount: Int!
+    publishedDate: String
   }
   type Auth {
     token: ID!
@@ -30,6 +32,8 @@ const typeDefs = gql`
     image: String
     link: String
     title: String!
+    pageCount: Int!
+    publishedDate: String
   }
   type Query {
     me: User

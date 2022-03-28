@@ -16,6 +16,8 @@ export const QUERY_ME = gql`
         description
         title
         link
+        pageCount
+        publishedDate
       }
     }
   }
