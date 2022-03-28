@@ -5,7 +5,7 @@ The challenge:  Given that the Book Search page is fully functional. The "Lead" 
 The fully working page should render information, such as the book title, author and description, and page count. And also given the ability to save their favorite books once signed in, for future refrence.
 
 Screenshot of Deployed Application:
-/Users/cvasquez/Desktop/Screen Shot 2022-03-28 at 2.53.22 AM (2).png
+/Users/cvasquez/Desktop/Screen Shot 2022-03-28 at 2.53.22 AM.png
 
 Link to Deployed Application:
 
